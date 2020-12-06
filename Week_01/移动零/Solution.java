@@ -1,10 +1,3 @@
-package ltd.pdx.move0;
-
-/**
- * @author buyanping
- * @description
- * @date 2020/12/2
- */
 public class Solution {
 
     public void move0(int nums[]) {
